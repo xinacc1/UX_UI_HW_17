@@ -1,0 +1,114 @@
+    <footer class="footer ln">
+        <div class="text-align-center">
+            <div>Copyright 2021   l   xina.ccastillo@gmail.com   l    +(61) 411 145 663   l   123 Eagle St, Brisbane QLD Australia</div>
+        </div>
+        <div class="to-right">
+            <div class="button-nav middle circle ln">Facebook</div>
+            <div class="button-nav middle circle ln">Twitter</div>
+        </div>
+    </footer>
+     
+       <section class="right-panel absolute-right ln">
+        <div class="main-content ln">
+            <div class="tile">
+                <img src="images/tinder_tile.svg" alt="portfolio project 1" width="408">
+                <div class="centered-text">
+                 <h3 class="white-text">Tinder</h3>
+                 <p class="white-text">Tinder Matchmaker</p>
+                </div>
+            </div>
+            <div class="tile">
+                <img src="images/fairplay_tile.svg" alt="portfolio project 1" width="408">
+                <div class="centered-text">
+                    <h3 class="white-text">Fairplay</h3>
+                    <p class="white-text">Fairplay For All Foundation</p>
+                </div>
+            </div>
+            <div class="tile">
+                <img src="images/ecsa_tile.svg" alt="portfolio project 1" width="408">
+                <div class="centered-text">
+                    <h3 class="white-text">ECSA</h3>
+                    <p class="white-text">Electoral Commission South Australia</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        <section class="right-panel absolute-right ln">
+        <div class="main-content ln">
+            <div class="confused1">
+                <img src="images/tinder_tile.svg" alt="portfolio project 1" width="850px" height="430px">
+                <div class="centered-text">
+                 <h3 class="white-text">Tinder</h3>
+                 <p class="white-text">Tinder Matchmaker</p>
+                </div>
+            </div>
+            <div class="confused2">
+                <img src="images/fairplay_tile.svg" alt="portfolio project 1" width="850px" height="430px">
+                <div class="centered-text">
+                    <h3 class="white-text">Fairplay</h3>
+                    <p class="white-text">Fairplay For All Foundation</p>
+                </div>
+            </div>
+            <div class="confused3">
+                <img src="images/ecsa_tile.svg" alt="portfolio project 1" width="850px" height="430px">
+                <div class="centered-text">
+                    <h3 class="white-text">ECSA</h3>
+                    <p class="white-text">Electoral Commission South Australia</p>
+                </div>
+            </div>
+        </div>
+    </section>   
+     
+         <section class="right-panel absolute-right ln">
+        <div class="column ln">
+            <div class="meal1">
+                <div class="background1">
+                    <h3 class="text">Tinder</h3>
+                    <p class="text2">Tinder Matchmaker</p>
+                </div>
+            <div class="background2">
+                <div class="meal2">
+                    <h3 class="text">Fairplay</h3>
+                    <p class="text2">Fairplay For All Foundation</p>
+             </div>
+        </div>
+        <div class="column ln">
+            <div class="meal3">
+                <div class="background3"></div>>
+                    <h3 class="text">ECSA</h3>
+                    <p class="text2">Electoral Commission South Australia</p>
+                </div>
+            </div>
+        </div>
+    </section>
+ 
+  Original SKILLS box <<<<<<<<<<<<
+             </div>
+            <div class="info-box">
+                <div class="skills-spacing">
+                    <h4>SKILLS</h4>
+                </div>
+                <div class="skills-spacing">
+                     <p>Adobe XD</p>
+                </div>
+                <div class="skills-spacing">
+                    <p>Figma</p>
+                </div>
+                <div class="skills-spacing">
+                    <p>HTML & CSS</p>
+                </div>
+                <div class="skills-spacing">
+                    <p>Photoshop</p>
+                </div>
+                <div class="skills-spacing">
+                    <p>GSuite</p>
+                </div>
+                <div class="skills-spacing">
+                    <p>Github</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
