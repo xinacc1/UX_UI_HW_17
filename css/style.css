@@ -132,8 +132,8 @@ p {
 }
  
 .circle {
-    width: 85px;
-    height: 85px;
+    width: 84px;
+    height: 84px;
     border-radius: 50%;
 }
  
@@ -167,7 +167,7 @@ p {
 .centered-text {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 30%;
 } 
  
 .panel-box {
@@ -194,7 +194,7 @@ footer {
  
 .abso-left {
     position: absolute;
-    top: 92px;
+    top: 93px;
     left: 252px;
     width: 400px;
     height: 1600px;
@@ -223,7 +223,7 @@ footer {
 .skills-spacing {
     position: relative;
     text-align: left;
-    margin: 20px 0px;
+    margin: 6px 0px;
 }
  
 .button-footer {
@@ -389,6 +389,7 @@ footer {
     grid-template-rows: 86px 86px 86px 86px;
     grid-template-columns: 86px 240px;
     margin: 0px;
+    row-gap: 8px;
     grid-template-areas:
     "firsticon secondtext"
     "thirdicon fourthtext"
@@ -406,6 +407,8 @@ footer {
   
   #secondtext {
     grid-area: "secondtext";
+    padding-top: 30px;
+    padding-left: 30px;
   }
   
   #thirdicon {
@@ -417,6 +420,8 @@ footer {
 
   #fourthtext {
     grid-area: "fourthtext";
+    padding-top: 30px;
+    padding-left: 30px;
   } 
 
   #fifthicon {
@@ -428,6 +433,8 @@ footer {
 
   #sixthtext {
     grid-area: "sixthtext";
+    padding-top: 30px;
+    padding-left: 30px;
   } 
 
   #seventhicon {
@@ -439,6 +446,8 @@ footer {
 
   #eighthtext {
     grid-area: "eighthtext";
+    padding-top: 30px;
+    padding-left: 30px;
   } 
 
   #ninthicon {
@@ -450,6 +459,8 @@ footer {
 
   #tenthtext {
     grid-area: "tenthtext";
+    padding-top: 30px;
+    padding-left: 30px;
   } 
 
    
